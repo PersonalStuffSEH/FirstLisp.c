@@ -34,6 +34,10 @@ What stops me from making this in Python entirely is the fact that Python:
 1. isn't as fun to program in as it is in C (Python does a lot of algorithms for you, and I like my algorithms)
 1. doesn't let me micro-optimise memory usage
 
+I am also currently intending to make a transpiled output containing reverse polish notation
+> (+ a b)
+Maybe I will also make my own intermediate language
+Only thing stopping me is the fact that I get distracted from personal projects
 
 The `logo.jpg` I got online from DuckDuckGo when you search "Brackish water", and filter "Free to Modify, Share, and Use Commercially"
 My jourey and the problems I faced are in doc/problems.md and feature suggestions are in doc/features.md
